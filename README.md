@@ -23,7 +23,7 @@ Talk to me about
 - Container techs such as **Docker**
 
 ## 📫 Contact Me
-- LinkedIn - [Zoey Liao](https://in.linkedin.com/in/gauravc12)
+- LinkedIn - [Zoey Liao]https://www.linkedin.com/in/zeyuliao2024/
 - Blog - [slightdream](http://slightdream.cn)
 
 ---
