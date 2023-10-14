@@ -21,7 +21,7 @@ Talk to me about
 - Taking big data and BI courses in school!
 - Taking front end courses in school!
 - Joining the Hackathon contest held by Walmart and Northeastern University!\
-  (**Won the 1st Prize in the Hackthon! working on the continued incubator project!**)
+  (**Won the 1st Prize in the Hackathon! working on the continued incubator project!**)
 
 
 ## 📫 Contact Me
