@@ -20,7 +20,9 @@ Talk to me about
 - Learning Devops, CI/CD, Containers and MORE... !
 - Taking big data and BI courses in school!
 - Taking front end courses in school!
-- Joining the Hackathon contest held by Walmart and Northeastern University!
+- Joining the Hackathon contest held by Walmart and Northeastern University!\
+  (**Won the 1st Prize in the Hackthon! working on the continued incubator project!**)
+
 
 ## 📫 Contact Me
 - LinkedIn - [Zoey Liao](https://www.linkedin.com/in/zeyuliao2024/)
