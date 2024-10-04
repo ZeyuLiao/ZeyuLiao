@@ -12,16 +12,13 @@ Talk to me about
 - Architectural design for **Relational Database Management Systems like MySQL, OracleDB** as well as for NoSQL database systems like **MongoDB**
 - Ensuring code quality using **Selenium, Unit test, Junit, Jacoco**
 - Creating scalable cloud architecture using **AWS**
-- Project Management and CD/CI using **Jenkins**
+- Project Management and CD/CI using **Jenkins, Github Actions**
 - Container techs such as **Docker, Kubernetes**
 
-## 💻 What I am learning
-- Preparing for the AWS Certificate!
-- Learning Devops, CI/CD, Containers and MORE... !
-- Taking big data and BI courses in school!
-- Taking front end courses in school!
-- Joining the Hackathon contest held by Walmart and Northeastern University!\
-  (**Won the 1st Prize in the Hackathon! working on the continued incubator project!**)
+## 💻 What I am doing
+- Learning Devops,SRE skills and MORE... !
+- Taking block chain courses in school!
+- Joining the Hackathon contest held by Telus and Northeastern University!\
 
 
 ## 📫 Contact Me
